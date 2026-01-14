@@ -1,4 +1,9 @@
 ## Hi there 👋
+Aspiring Data Science|Python learner|AI & ML beginner
+sharing my learning journey on GitHub
+.Building Project step by step
+.Improving skills through projects & practice
+.open to teamwork,collaboration and knowledge sharing
 
 <!--
 **vanshika14168/vanshika14168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
